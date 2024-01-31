@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working e-commerce website<br>🤝 I’m looking for help with frontend <br>🌱 I’m currently learning Node.js<br>
+🔭 I’m currently working e-commerce website<br>🤝 I’m looking for help with Backend <br>🌱 I’m currently learning Node.js<br>
 
 
 ## 🌐 Socials:
